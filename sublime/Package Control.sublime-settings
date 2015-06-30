@@ -5,6 +5,8 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"Blade Snippets",
+		"Blade Spacer",
 		"Bootstrap 3 Snippets",
 		"BracketGuard",
 		"BracketHighlighter",
@@ -14,11 +16,17 @@
 		"GitGutter",
 		"GotoDocumentation",
 		"jQuery",
+		"Laravel Blade Highlighter",
 		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
 		"Seti_UI",
 		"SublimeCodeIntel",
+		"sublimelint",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
-		"SublimeLinter-php"
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint"
 	]
 }
