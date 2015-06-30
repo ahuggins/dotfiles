@@ -1,6 +1,6 @@
 # dotfiles
 
-just wanted to have my dotfiles backed up somewhere. 
+Originally this repo was just going to have my dotfiles, but it has become a house for my development settings.
 
 
 ## iTerm
