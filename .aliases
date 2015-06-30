@@ -1,10 +1,36 @@
+# Folder Aliases
 alias code='cd ~/Code'
-alias source='source ~/.bash_profile'
+alias s='source ~/.bash_profile'
 alias profile='sublime ~/.bash_profile'
 alias aliases='sublime ~/.aliases'
+
+# Git
+alias ga='git add'
+alias gaa='git add .'
+alias gc='git commit -m'
+alias gp='git push'
+alias gs='git status'
+alias gco='git checkout'
+alias gm='git merge'
+alias gb='git branch'
+alias gl='git lg'
+# Need to run the below line in the terminal to set up a nicer git log
+# git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+
+# Terminal
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ~='cd ~/'
-alias lsa='ls -a'
+alias ls='ls -G'
+alias lsa='ls -G -A'
 alias lsal='ls -al'
+
+# Laravel
+alias artisan='php artisan'
+alias dump='composer dumpautoload'
+
+# File edits
 alias hosts='sudo vim /etc/hosts'
+
+# SSH connections
+alias oscar='ssh forge@104.131.180.15'
