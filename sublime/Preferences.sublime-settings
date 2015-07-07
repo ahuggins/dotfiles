@@ -5,6 +5,7 @@
 	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12.5,
 	"highlight_line": true,
@@ -18,6 +19,6 @@
 	"overlay_scroll_bars": "enabled",
 	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true,
 	"word_wrap": true
 }
-
